@@ -5,6 +5,12 @@ Problem Statement-
     To build a model which will be able to predict whether an order for a given product can go on backorder or not. 
     A backorder is the order which could not be fulfilled by the company. Due to high demand of a product, the company was not able to keep up with the delivery of the order.
 
+
+architecture 
+
+![image](https://user-images.githubusercontent.com/76938173/162401484-9ec75c9c-7d0f-4dfc-9048-313417f4e4f7.png)
+
+
 Data Description-
 
      The client will send data in multiple sets of files in batches at a given location. Data will contain 24 columns: 
