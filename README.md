@@ -5,14 +5,15 @@ Problem Statement-
     To build a model which will be able to predict whether an order for a given product can go on backorder or not. 
     A backorder is the order which could not be fulfilled by the company. Due to high demand of a product, the company was not able to keep up with the delivery of the order.
 
+ 
 
-![image](https://user-images.githubusercontent.com/76938173/162598659-c7fc1786-77b8-42d1-b7bf-5b6bcd596beb.png)
-
-![image](https://user-images.githubusercontent.com/76938173/162598675-d627ad37-bed6-436a-bc97-803690668ba9.png)
+ 
 
 ![image](https://user-images.githubusercontent.com/76938173/162598730-966a4242-1224-4cfb-b823-18d6fa4d578e.png)
 
 ![image](https://user-images.githubusercontent.com/76938173/162598803-23bc1aaa-1852-4497-bf29-24904095eca3.png)
+
+![image](https://user-images.githubusercontent.com/76938173/162598863-df55fa54-e5cf-41be-af5a-af5c610064f5.png)
 
 
 
