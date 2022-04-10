@@ -171,6 +171,12 @@ runtime.txt:- It contains the Python version number
 ![image](https://user-images.githubusercontent.com/76938173/162376872-37b6ae6d-94d7-4d4a-ba29-5c8822543bf4.png)
 
 
+![image](https://user-images.githubusercontent.com/76938173/162599263-630502c6-12b9-416b-97de-e8dea202f487.png)
+
+![image](https://user-images.githubusercontent.com/76938173/162599274-e8b916c7-799e-4d04-8e20-3a3877d284aa.png)
+
+![image](https://user-images.githubusercontent.com/76938173/162599351-4a159c45-9961-460a-85da-e31ef8857d75.png)
+
 
 
 
