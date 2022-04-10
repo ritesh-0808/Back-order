@@ -12,6 +12,8 @@ Problem Statement-
 
 ![image](https://user-images.githubusercontent.com/76938173/162598730-966a4242-1224-4cfb-b823-18d6fa4d578e.png)
 
+![image](https://user-images.githubusercontent.com/76938173/162598803-23bc1aaa-1852-4497-bf29-24904095eca3.png)
+
 
 
 
