@@ -6,6 +6,14 @@ Problem Statement-
     A backorder is the order which could not be fulfilled by the company. Due to high demand of a product, the company was not able to keep up with the delivery of the order.
 
 
+![image](https://user-images.githubusercontent.com/76938173/162598659-c7fc1786-77b8-42d1-b7bf-5b6bcd596beb.png)
+
+![image](https://user-images.githubusercontent.com/76938173/162598675-d627ad37-bed6-436a-bc97-803690668ba9.png)
+
+
+
+
+
 architecture 
 
 ![image](https://user-images.githubusercontent.com/76938173/162401484-9ec75c9c-7d0f-4dfc-9048-313417f4e4f7.png)
