@@ -10,6 +10,9 @@ Problem Statement-
 
 ![image](https://user-images.githubusercontent.com/76938173/162598675-d627ad37-bed6-436a-bc97-803690668ba9.png)
 
+![image](https://user-images.githubusercontent.com/76938173/162598730-966a4242-1224-4cfb-b823-18d6fa4d578e.png)
+
+
 
 
 
