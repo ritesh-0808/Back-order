@@ -20,7 +20,7 @@ Problem Statement-
 
 
 
-Projectt Architecture 
+Project Architecture 
 
 ![image](https://user-images.githubusercontent.com/76938173/162401484-9ec75c9c-7d0f-4dfc-9048-313417f4e4f7.png)
 
