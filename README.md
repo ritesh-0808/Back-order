@@ -225,4 +225,5 @@ Prediction -
      
      5) Once the prediction is made for all the clusters, the predictions along with the original names before label encoder are saved in a CSV file at a given location and the location is returned to the client.
  
- 
+ ![image](https://user-images.githubusercontent.com/76938173/164886301-0a2dcdeb-a8d8-4d19-936e-fb610a39321a.png)
+
